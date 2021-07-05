@@ -1,0 +1,10 @@
+.container {
+  height: 50vh;
+}
+.container h1 {
+  margin: 250px auto;
+  font-size: 50px;
+  font-style: italic;
+  color: #272768;
+  text-shadow: 2px 4px 33px #ff6400;
+}

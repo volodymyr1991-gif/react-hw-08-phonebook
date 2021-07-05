@@ -1,0 +1,47 @@
+.list {
+  display: flex;
+  justify-content: flex-end;
+  border: 5px solid #a4a0e6;
+  padding: 20px 0;
+  border-radius: 20px;
+  background: #8076f2;
+}
+
+.listItem {
+  list-style: none;
+  margin: 0 20px 0 225px;
+}
+.listLink {
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+  margin: 0 15px;
+}
+.active {
+  color: #ffa848;
+}
+.userBlock {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.name {
+  font-size: 18px;
+  margin: 0px 10px;
+  color: white;
+  font-style: italic;
+}
+.img {
+  width: 50px;
+  height: 40px;
+}
+.btn {
+  width: 40px;
+  height: 20px;
+  outline: none;
+  border: none;
+  background-color: #fea756;
+  border-radius: 5px;
+  cursor: pointer;
+}
